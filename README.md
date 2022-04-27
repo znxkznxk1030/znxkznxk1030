@@ -4,23 +4,19 @@
 
 ## Toy Projects
 
-### canvas dojo ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
+### [canvas dojo](https://github.com/znxkznxk1030/canvas-dojo) ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
 
 - A plugin for learning and experimenting html5 canvas
 - 600+ downloads
-- [repo](https://github.com/znxkznxk1030/canvas-dojo)
+- [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ArthurKim.canvas-dojo)
 
-[see more](https://marketplace.visualstudio.com/items?itemName=ArthurKim.canvas-dojo)
-
-### quick deploy ( on progress ) ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
+### [quick deploy](https://github.com/znxkznxk1030/vscode-tookit-aws-lambda-java) ( on progress ) ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
 
 - Support for deploying aws lambda funtion
-- [repo](https://github.com/znxkznxk1030/vscode-tookit-aws-lambda-java)
 
-### Should Do List
+### [should-do list](https://github.com/znxkznxk1030/should-do-list)
 
 - A should-do list app with kakao login
-- [repo](https://github.com/znxkznxk1030/should-do-list)
 
 ## Daliy Study
 
@@ -31,11 +27,7 @@
 
 ### Spring
 
-- [spring-security-email-validation](https://github.com/znxkznxk1030/spring-security-email-validation)
-- [spring-boot-webchat](https://github.com/znxkznxk1030/spring-boot-webchat)
-- [should-do-list](https://github.com/znxkznxk1030/should-do-list)
-- [spring-security-oauth](https://github.com/znxkznxk1030/spring-security-oauth)
-- [spring-kafka](https://github.com/znxkznxk1030/spring-kafka-learn)
-
-### React.js
-
+- [spring-security-email-validation](https://github.com/znxkznxk1030/spring-security-email-validation) | spring-secuirty를 이용한 이메일 인증 PoC
+- [spring-boot-webchat](https://github.com/znxkznxk1030/spring-boot-webchat) | spring과 websocket, redis를 이용한 p2p 웹 채팅
+- [should-do-list](https://github.com/znxkznxk1030/should-do-list)           | Kakao OAuth2의 authentication code 인증 방법을 이용한 로그인 PoC
+- [spring-security-oauth](https://github.com/znxkznxk1030/spring-security-oauth)| OAuth 서버 구축 PoC 
