@@ -25,7 +25,7 @@
 - [AWS | 고가용성 구성에서 세션을 유지 3가지 방법](https://github.com/znxkznxk1030/session-persisting-in-HA-on-aws)
 - [AWS T2 교육 | SAA 따면서 공부했던것 정리](https://github.com/znxkznxk1030/aws-t2)
 
-### Spring
+### Spring Security
 
 - [spring-security-email-validation](https://github.com/znxkznxk1030/spring-security-email-validation) | spring-secuirty를 이용한 이메일 인증 PoC
 - [spring-boot-webchat](https://github.com/znxkznxk1030/spring-boot-webchat) | spring과 websocket, redis를 이용한 p2p 웹 채팅
