@@ -30,4 +30,4 @@
 - [spring-security-email-validation](https://github.com/znxkznxk1030/spring-security-email-validation) | spring-secuirty를 이용한 이메일 인증 PoC
 - [spring-boot-webchat](https://github.com/znxkznxk1030/spring-boot-webchat) | spring과 websocket, redis를 이용한 p2p 웹 채팅
 - [should-do-list](https://github.com/znxkznxk1030/should-do-list)           | Kakao OAuth2의 authentication code 인증 방법을 이용한 로그인 PoC
-- [spring-security-oauth](https://github.com/znxkznxk1030/spring-security-oauth)| OAuth 서버 구축 PoC
+- [oauth2-authentication-code-learn](https://github.com/znxkznxk1030/oauth2-authentication-code-learn)| OAuth 서버 구축 PoC
