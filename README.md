@@ -7,7 +7,7 @@
 ### [canvas dojo](https://github.com/znxkznxk1030/canvas-dojo) ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
 
 - A plugin for learning and experimenting html5 canvas
-- 600+ downloads
+- 1k+ downloads
 - [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ArthurKim.canvas-dojo)
 
 ### [quick deploy](https://github.com/znxkznxk1030/vscode-tookit-aws-lambda-java) ( on progress ) ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
