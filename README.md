@@ -23,7 +23,7 @@
 ### AWS
 
 - [AWS | 고가용성 구성에서 세션을 유지 3가지 방법](https://github.com/znxkznxk1030/session-persisting-in-HA-on-aws)
-- [AWS T2 교육 | SAA 따면서 공부했던것 정리](https://github.com/znxkznxk1030/aws-t2)
+- [AWS T2 교육 | SAA 따면서 공부했던것 정리](https://github.com/znxkznxk1030/aws-t2/tree/main/ArchitectOnAWS/training4)
 
 ### Spring Security
 
