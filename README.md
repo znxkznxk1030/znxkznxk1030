@@ -10,7 +10,7 @@
 - 1k+ downloads
 - [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ArthurKim.canvas-dojo)
 
-### [quick deploy](https://github.com/znxkznxk1030/vscode-tookit-aws-lambda-java) ( on progress ) ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
+### [quick deploy](https://github.com/znxkznxk1030/vscode-tookit-aws-lambda-java) ![vscode marketplace](https://badgen.net/vs-marketplace/v/vscodevim.vim)
 
 - Support for deploying aws lambda funtion
 
